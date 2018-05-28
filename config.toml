@@ -9,6 +9,8 @@ theme = "hyde-hyde"
 # googleAnalytics = "your-google-analytics-id"
 # enableRobotsTXT = true
 
+relativeurls = true
+
 ## Site Settings
 [params]
     author = "Author"
