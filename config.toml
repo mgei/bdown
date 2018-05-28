@@ -11,6 +11,7 @@ theme = "hyde-hyde"
 
 relativeurls = true
 
+
 ## Site Settings
 [params]
     author = "Author"
