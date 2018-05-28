@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "http://econovo.io/website/bdown/public/"
 languageCode = "en"
 
 theme = "hyde-hyde"
@@ -8,6 +8,8 @@ theme = "hyde-hyde"
 # disqusShortname = "your-disqus-shortname"
 # googleAnalytics = "your-google-analytics-id"
 # enableRobotsTXT = true
+
+relativeurls = true
 
 ## Site Settings
 [params]
@@ -20,7 +22,6 @@ theme = "hyde-hyde"
     # highlightjsstyle = "github"
     # please choose either GraphComment or Disqus
     # GraphCommentId = "your-graph-comment-id" 
-    relativeurls = true
 
 ## Social Accounts
 [params.social]
