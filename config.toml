@@ -22,6 +22,7 @@ relativeurls = true
     # highlightjsstyle = "github"
     # please choose either GraphComment or Disqus
     # GraphCommentId = "your-graph-comment-id" 
+    themeColor = "theme-base-09"
 
 ## Social Accounts
 [params.social]
